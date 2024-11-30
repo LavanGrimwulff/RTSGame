@@ -1,0 +1,6 @@
+Format:
+Type,maxHP,moveSpeed,attackSpeed,attackDamage,attackRange,size
+///////////////////////////////////Please, no empty lines
+Builder,100,1,2,1,5,1
+Melee,500,1,2,2,5,1
+Ranged,200,1,2,1,50,1
