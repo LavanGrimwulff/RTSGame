@@ -1,0 +1,1 @@
+Basic framework for an RTS. Arrow keys to move the camera, mouse controls everything else. Still working on this one so expect bugs/changes
